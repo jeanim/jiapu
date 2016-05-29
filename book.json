@@ -5,5 +5,13 @@
         "mermaid"
     ],
     "pluginsConfig": {
+        "mermaid":{
+            diagramMarginX:10,
+            diagramMarginY:5,
+            boxTextMargin:5,
+            noteMargin:10,
+            messageMargin:35,
+            mirrorActors:true
+        }
     }
 }
