@@ -7,7 +7,7 @@
         "-betterchinese",
         "-bootstrapjs",
         "-footer",
-        "github-buttons",
+        "-github-buttons",
         "infinitescroll",
         "-mermaid-2",
         "-mermaid-compat",
