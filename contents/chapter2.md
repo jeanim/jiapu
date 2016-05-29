@@ -16,6 +16,14 @@ graph TB;
   huangyinan["黄一南"]-->huangtong["黄通"];
   huangyinan["黄一南"]-->huangda["黄达"];
   huangzuo["黄佐"]-->dazhang["大璋"];
+  huangwenzhong["黄文忠"]-->zhonghua["仲华"];
+  zhonghua["仲华"]-->kezhong["克忠"];
+  zhonghua["仲华"]-->huangrong["黄荣"];
+  huangrong["黄荣"]-->risheng["日升"];
+  risheng["日升"]-->huanghaihong["黄海洪"];
+  huanghaihong["黄海洪"]-->yongquan["永全"];
+  huanghaihong["黄海洪"]-->yongde["永德"];
+  huanghaihong["黄海洪"]-->yongshun["永顺"];  
 {% endmermaid %}
 
 
