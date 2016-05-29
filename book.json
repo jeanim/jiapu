@@ -11,7 +11,8 @@
         "edit-link",
         "add-header",
         "book-summary-scroll-position-saver",
-        "github-buttons"
+        "github-buttons",
+        "github"
     ],
     "pluginsConfig": {
         "duoshuo": {
@@ -24,11 +25,11 @@
             "multilingual": false
         },
         "github-buttons": {
-          "repo": "azu/JavaScript-Plugin-Architecture",
-          "types": [
-            "star",
-            "watch"
-          ]
-        }        
+            "repo": "azu/JavaScript-Plugin-Architecture",
+            "types": [
+                "star",
+                "watch"
+            ]
+        }
     }
 }
