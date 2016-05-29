@@ -50,6 +50,8 @@ graph LR;
   guojin("国进")-->baolin("保林");
   guojin("国进")-->sanyuan("三元");
   guojin("国进")-->siyuan("四元");
+  yongquan("永全")-->huangzi("黄孜");
+  yongquan("永全")-->huanghui("黄辉");  
   huanghaihong("黄海洪")-->yongde("永德");
   huanghaihong("黄海洪")-->yongshun("永顺");
   huangwenzhong("黄文忠")-->zhonghui("仲辉");
