@@ -12,7 +12,7 @@
         "-mermaid-2",
         "mermaid-compat",
         "search-pro",
-        "sellerui",
+        "-sellerui",
         "splitter",
         "tbfed-pagefooter",
         "toolbar",
