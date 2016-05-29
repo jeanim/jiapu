@@ -247,7 +247,7 @@ graph LR;
   huangzhanchun("黄占春")-->huangxiangx("黄香X(女)");
   huangxiangbing("黄香炳")-->huangkuanqing("黄宽清");
   huangkuanqing("黄宽清")-->huanghongmei("黄红梅"(女));
-  huangkuanqing("黄宽清")-->("黄X(女)");
+  huangkuanqing("黄宽清")-->huangx("黄X(女)");
   huangxiangbing("黄香炳")-->huangkuanyun("黄宽云");
   huangkuanyun("黄宽云")-->huanggaocai("黄高才");
   huangkuanyun("黄宽云")-->huangxiulan("黄秀兰(女)");
