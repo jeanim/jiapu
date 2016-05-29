@@ -3,20 +3,6 @@
         "-yahei",
         "-new-flowchart",
         "mermaid",
-        "-anchor-navigation",
-        "-betterchinese",
-        "-bootstrapjs",
-        "-footer",
-        "-github-buttons",
-        "-infinitescroll",
-        "-mermaid-2",
-        "-mermaid-compat",
-        "search-pro",
-        "-sellerui",
-        "-splitter",
-        "-tbfed-pagefooter",
-        "-toolbar",
-        "-word-count"
     ],
     "pluginsConfig": {}
 }
