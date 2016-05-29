@@ -149,7 +149,7 @@ graph LR;
   guoqi("国屺")-->zhengbing("政炳");
   mingshao("明绍")-->guorui("国瑞");
   mingshao("明绍")-->guotan("国炭");
-  guotan("国炭")-->zhengyuan("政元");
+  guotan("国炭")-->zhengyuan2("政元");
   mingshao("明绍")-->guowei("国委");
   guowei("国委")-->zhenglian("政联");
   huangdachun("黄大春")-->minglun("明纶");
