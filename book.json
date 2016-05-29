@@ -14,7 +14,8 @@
         "search-pro",
         "sellerui",
         "splitter",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+        "toolbar"
     ],
     "pluginsConfig": {}
 }
