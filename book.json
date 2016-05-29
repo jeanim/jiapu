@@ -22,6 +22,13 @@
             "base": "https://github.com/jeanim/jiapu/edit/master",
             "label": "Edit This Page",
             "multilingual": false
-        }
+        },
+        "github-buttons": {
+          "repo": "azu/JavaScript-Plugin-Architecture",
+          "types": [
+            "star",
+            "watch"
+          ]
+        }        
     }
 }
