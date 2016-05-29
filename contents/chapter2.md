@@ -289,4 +289,45 @@ graph LR;
 
 ## 四、黄海洪三子黄永顺后裔
 
-待编辑
+{% mermaid %}
+graph LR;
+  huangyongshun("黄永顺")-->huangjin("黄金");
+  huangjin("黄金")-->huangmin("黄旻");
+  huangmin("黄旻")-->dafu("大傅");
+  dafu("大傅")-->mingzuo("明祚");
+  mingzuo("明祚")-->guoshan("国珊");
+  guoshan("国珊")-->zhengshi("政仕");
+  guoshan("国珊")-->zhengreng("政仍");
+  dafu("大傅")-->mingli("明礼");
+  huangmin("黄旻")-->daqing("大清");
+  daqing("大清")-->mingfu("明富");
+  daqing("大清")-->minggui("明贵");
+  daqing("大清")-->mingrong("明荣");
+  mingrong("明荣")-->guohu("国瑚");
+  mingrong("明荣")-->guolian("国琏");
+  mingrong("明荣")-->guozhang("国璋");
+  mingrong("明荣")-->guoyu("国钰");
+  huangjin("黄金")-->huangchang("黄昌");
+  huangchang("黄昌")-->dazhen("大祯");
+  huangchang("黄昌")-->dali("大礼");
+  dali("大礼")-->mingying("明缨");
+  mingying("明缨")-->guoqu("国去");
+  guoqu("国去")-->zhengshen("政伸");
+  guoqu("国去")-->zhengbo("政伯");
+  guoqu("国去")-->zhengzhong("政仲");
+  guoqu("国去")-->zhengjun("政俊");
+  mingying("明缨")-->guozheng("国政");
+  guozheng("国政")-->zhengreng("政仍");
+  guozheng("国政")-->zhengzuo("政作");
+  guozheng("国政")-->zhengfan("政凡");
+  guozheng("国政")-->zhengwei("政位");
+  mingying("明缨")-->guocong("国琮");
+  guocong("国琮")-->zhengren("政任");
+  mingying("明缨")-->guoyao("国瑶");
+  guoyao("国瑶")-->zhengchou("政仇");
+  guoyao("国瑶")-->zhengwei("政位");
+  huangjin("黄金")-->huangjing("黄景");
+  huangjing("黄景")-->dawang("大旺");
+  dawang("大旺")-->mingtong("明统");
+  huangjin("黄金")-->huangang("黄昂"); 
+{% endmermaid %}
