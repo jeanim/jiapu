@@ -15,3 +15,11 @@
 ## 四、黄海洪三子黄永顺后裔
 
 待编辑
+
+{% mermaid %}
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+{% endmermaid %}
