@@ -17,7 +17,8 @@
         "anchor-navigation",
         "autosize-iframe",
         "diy-introduction",
-        "fancybox"
+        "fancybox",
+        "forkmegithub"
     ],
     "pluginsConfig": {
         "duoshuo": {
