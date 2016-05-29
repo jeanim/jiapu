@@ -7,7 +7,8 @@
         "betterchinese",
         "bootstrapjs",
         "footer",
-        "github"
+        "github",
+        "github-buttons"
     ],
     "pluginsConfig": {}
 }
