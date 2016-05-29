@@ -16,7 +16,8 @@
         "advanced-emoji",
         "anchor-navigation",
         "autosize-iframe",
-        "diy-introduction"
+        "diy-introduction",
+        "fancybox"
     ],
     "pluginsConfig": {
         "duoshuo": {
@@ -30,7 +31,6 @@
         },
         "github": {
             "url": "https://github.com/jeanim/jiapu"
-        },
-        "introduction-text": "封面"
+        }
     }
 }
