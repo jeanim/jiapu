@@ -10,7 +10,11 @@ graph TB;
   yuanlu["元禄"]-->jingwen["金稳"];
   yuanlu["元禄"]-->huangzuo["黄佐"];
   huangzuo["黄佐"]-->daqiu["大球"];
-  huangzuo["黄佐"]-->dazhu["大珠"];  
+  huangzuo["黄佐"]-->dazhu["大珠"];
+  dazhu["大珠"]-->huangyinan["黄一南"];
+  huangyinan["黄一南"]-->huangxuan["黄选"];
+  huangyinan["黄一南"]-->huangtong["黄通"];
+  huangyinan["黄一南"]-->huangda["黄达"];
 {% endmermaid %}
 
 
