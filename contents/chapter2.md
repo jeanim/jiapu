@@ -41,7 +41,7 @@ graph LR;
 
 {% mermaid %}
 graph LR;
-  yongquan("永全")-->huangtai("黄泰");
+  huangyongquan("黄永全")-->huangtai("黄泰");
   huangtai("黄泰")-->huangyushou("黄玉受");
   huangyushou("黄玉受")-->huangdazhong("黄大忠");
   huangdazhong("黄大忠")-->huangmingcai("黄明才");
@@ -63,7 +63,7 @@ graph LR;
   guojin("国进")-->baolin("保林");
   guojin("国进")-->sanyuan("三元");
   guojin("国进")-->siyuan("四元");
-  yongquan("永全")-->huangzi("黄孜");
+  huangyongquan("黄永全")-->huangzi("黄孜");
   huangzi("黄孜")-->huangyuqing("黄玉卿");
   huangzi("黄孜")-->huangdachun("黄大春");
   huangdachun("黄大春")-->mingwei("明维");
@@ -119,7 +119,7 @@ graph LR;
   huangdachun("黄大春")-->mingji("明纪");
   huangdachun("黄大春")-->mingwen("明缊");
   huangdachun("黄大春")-->mingchun("明纯");
-  yongquan("永全")-->huanghui("黄辉");
+  huangyongquan("黄永全")-->huanghui("黄辉");
 {% endmermaid %}
 
 ## 三、黄海洪次子黄永德后裔
