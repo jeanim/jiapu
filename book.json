@@ -12,6 +12,6 @@
             noteMargin:10,
             messageMargin:35,
             mirrorActors:true
-            };
+            }
     }
 }
