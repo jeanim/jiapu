@@ -5,7 +5,8 @@
         "mermaid",
         "maobu",
         "multipart",
-        "exercises"
+        "exercises",
+        "edit-link"
     ],
     "pluginsConfig": {}
 }
