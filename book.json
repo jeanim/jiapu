@@ -32,6 +32,9 @@
         },
         "github": {
             "url": "https://github.com/jeanim/jiapu"
-        }
+        },
+        "forkmegithub": {
+            "url": "https://github.com/jeanim/jiapu"
+    }
     }
 }
