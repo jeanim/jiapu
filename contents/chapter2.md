@@ -171,7 +171,7 @@ graph LR;
   guoqu("国岖")-->zhengyi("政遗");
   guoqu("国岖")-->zhengtong("政通");
   huangdachun("黄大春")-->mingwen("明缊");
-  mingwen("明缊")-->guozheng("国震");
+  mingwen("明缊")-->guozheng2("国震");
   huangdachun("黄大春")-->mingchun("明纯");
   mingchun("明纯")-->guoqian("国倩");
   mingchun("明纯")-->guoyue("国岳");
