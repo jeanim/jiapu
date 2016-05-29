@@ -5,7 +5,6 @@
 {% mermaid %}
 graph TB;
   huangfuyi["黄福义"]-->huangwenzhong["黄文忠"];
-  
   huangwenzhong["黄文忠"]-->zhongxuan["仲宣"];
   zhongxuan["仲宣"]-->yuanlu["元禄"];
   yuanlu["元禄"]-->jingwen[“金稳”];
@@ -17,7 +16,6 @@ graph TB;
   huangyinan["黄一南"]-->huangtong["黄通"];
   huangyinan["黄一南"]-->huangda["黄达"];
   huangzuo[“黄佐”]-->dazhang["大璋"];
-  
   huangwenzhong["黄文忠"]-->zhonghua["仲华"];
   zhonghua["仲华"]-->kezhong["克忠"];
   zhonghua["仲华"]-->huangrong["黄荣"];
@@ -26,13 +24,11 @@ graph TB;
   huanghaihong["黄海洪"]-->yongquan["永全"];
   huanghaihong["黄海洪"]-->yongde["永德"];
   huanghaihong["黄海洪"]-->yongshun["永顺"];
-  
   huangwenzhong["黄文忠"]-->zhonghui["仲辉"];
   huangwenzhong["黄文忠"]-->zhongxiang["仲祥"];
   huangwenzhong["黄文忠"]-->zhongjing["仲敬"];
   huangwenzhong["黄文忠"]-->zhongmin["仲敏"];
   huangwenzhong["黄文忠"]-->zhonghai["仲海"];
-
   zhongxuan["仲宣"]-->yuangui["元贵"];
   zhongxuan["仲宣"]-->yuanshun["元顺"];
   zhongxuan["仲宣"]-->yuanshou["元受"];
