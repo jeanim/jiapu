@@ -10,7 +10,8 @@
         "betterchinese",
         "edit-link",
         "add-header",
-        "book-summary-scroll-position-saver"
+        "book-summary-scroll-position-saver",
+        "github-buttons"
     ],
     "pluginsConfig": {
         "duoshuo": {
