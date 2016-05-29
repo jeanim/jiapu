@@ -14,6 +14,11 @@
         "duoshuo": {
             "short_name": "huangshijiapu",
             "theme": "default"
-        }
+        },
+        "edit-link": {
+            "base": "https://github.com/jeanim/jiapu/edit/master/content",
+            "label": "Edit This Page",
+            "multilingual": false         
+        }       
     }
 }
