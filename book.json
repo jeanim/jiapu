@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "-yahei",
+        "yahei",
         "-new-flowchart",
         "mermaid",
         "maobu",
