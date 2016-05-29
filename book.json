@@ -5,7 +5,7 @@
         "-mermaid",
         "anchor-navigation",
         "betterchinese",
-        "bootstrapjs",
+        "-bootstrapjs",
         "footer",
         "github-buttons",
         "infinitescroll",
