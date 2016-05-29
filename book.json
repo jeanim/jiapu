@@ -9,7 +9,8 @@
         "footer",
         "github-buttons",
         "infinitescroll",
-        "-mermaid-2"
+        "-mermaid-2",
+        "mermaid-compat"
     ],
     "pluginsConfig": {}
 }
