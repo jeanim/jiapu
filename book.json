@@ -1,6 +1,27 @@
 {
-    "plugins": [
-        "yahei"
-    ],
-    "pluginsConfig": {}
+  "gitbook": "2.x.x",
+  "title": "黄氏家谱",
+  "description": "记录族系变迁，激励后人奋发图强，互助友爱。",
+  "language": "zh",
+  "plugins": [
+      "yahei"
+  ],
+  "pluginsConfig": {
+    "fontSettings": {
+      "theme": "white",
+      "family": "msyh",
+      "size": 2
+    }
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "fontSize": 18,
+    "paperSize": "a4",
+    "margin": {
+      "right": 30,
+      "left": 30,
+      "top": 30,
+      "bottom": 50
+    }
+  }
 }
