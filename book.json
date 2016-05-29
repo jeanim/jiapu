@@ -12,7 +12,8 @@
         "add-header",
         "book-summary-scroll-position-saver",
         "github",
-        "abc2svg"
+        "abc2svg",
+        "advanced-emoji"
     ],
     "pluginsConfig": {
         "duoshuo": {
