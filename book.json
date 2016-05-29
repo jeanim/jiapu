@@ -11,7 +11,8 @@
         "edit-link",
         "add-header",
         "book-summary-scroll-position-saver",
-        "github"
+        "github",
+        "abc2svg"
     ],
     "pluginsConfig": {
         "duoshuo": {
@@ -25,6 +26,6 @@
         },
         "github": {
             "url": "https://github.com/jeanim/jiapu"
-        }        
+        }
     }
 }
