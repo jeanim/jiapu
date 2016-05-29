@@ -16,7 +16,7 @@
         "-splitter",
         "-tbfed-pagefooter",
         "toolbar",
-        "word-count"
+        "-word-count"
     ],
     "pluginsConfig": {}
 }
