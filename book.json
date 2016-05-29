@@ -4,7 +4,7 @@
         "-new-flowchart",
         "mermaid",
         "-anchor-navigation",
-        "betterchinese",
+        "-betterchinese",
         "-bootstrapjs",
         "-footer",
         "github-buttons",
