@@ -8,7 +8,8 @@
         "bootstrapjs",
         "footer",
         "github-buttons",
-        "infinitescroll"
+        "infinitescroll",
+        "json-sidebar"
     ],
     "pluginsConfig": {}
 }
