@@ -14,7 +14,8 @@
         "github",
         "abc2svg",
         "advanced-emoji",
-        "anchor-navigation"
+        "anchor-navigation",
+        "autosize-iframe"
     ],
     "pluginsConfig": {
         "duoshuo": {
