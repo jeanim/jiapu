@@ -225,7 +225,67 @@ graph LR;
 
 ## 三、黄海洪次子黄永德后裔
 
-待编辑
+{% mermaid %}
+graph LR;
+  huangyongde("黄永德")-->huangyu("黄俞");
+  huangyu("黄俞")-->huangyaochen("黄尧臣");
+  huangyaochen("黄尧臣")-->huangzhida("黄至大");
+  huangyaochen("黄尧臣")-->huangyada("黄亚大");
+  huangzhida("黄至大")-->mingqiu("明裘");
+  mingqiu("明裘")-->guomu("国牧");
+  guomu("国牧")-->zhengxia("政夏");
+  guomu("国牧")-->zhengxi("政席");
+  mingqiu("明裘")-->guox("国X");
+  huangzhida("黄至大")-->mingpei("明裴");
+  huangyada("黄亚大")-->mingtang("明堂");
+  mingtang("明堂")-->guojing("国敬");
+  mingtang("明堂")-->guomin("国敏");
+  mingtang("明堂")-->guoqi("国启");
+  mingtang("明堂")-->guoshe("国社");
+  huangyada("黄亚大")-->mingbang("明榜");
+  huangyada("黄亚大")-->mingding("明顶");
+  mingding("明顶")-->guofu("国敷");
+  mingding("明顶")-->guodun("国敦");
+  huangyada("黄亚大")-->mingzhong("明钟");
+  mingzhong("明钟")-->guowei("国微");
+  mingzhong("明钟")-->guozheng("国政");
+  mingzhong("明钟")-->guolian("国敛");
+  huangyada("黄亚大")-->mingtao("明涛");
+  mingtao("明涛")-->guojiu("国救");
+  mingtao("明涛")-->guogong("国攻");
+  huangyada("黄亚大")-->mingxiang("明湘");
+  huangyongde("黄永德")-->huangx("黄X");
+  huangx("黄X")-->huangyuchao("黄玉朝");
+  huangx("黄X")-->huangyujing("黄玉京");
+  huangyujing("黄玉京")-->daben("大本");
+  daben("大本")-->mingyong("明用");
+  huangx("黄X")-->huangyuting("黄玉庭");
+  huangyuting("黄玉庭")-->dagong("大贡(白元过继刘升吉为后,明霖)");
+  huangyuting("黄玉庭")-->dabin("大宾");
+  dabin("大宾")-->mingying("明映");
+  dabin("大宾")-->minghui("明晖");
+  dabin("大宾")-->mingjian("明见");
+  dabin("大宾")-->mingyue("明跃");
+  dabin("大宾")-->mingwei("明韦");
+  dabin("大宾")-->mingtao("明韬");
+  huangyuting("黄玉庭")-->dazan("大赞");
+  huangyuting("黄玉庭")-->dabao("大宝");
+  dabao("大宝")-->minglue("明略");
+  minglue("明略")-->guoding("国定");
+  minglue("明略")-->guocheng("国承");
+  minglue("明略")-->guohong("国宏");
+  huangyuting("黄玉庭")-->daguan("大贯");
+  daguan("大贯")-->mingdian("明电");
+  daguan("大贯")-->mingzhen("明震");
+  huangx("黄X")-->huangyuqing("黄玉清");
+  huangyuqing("黄玉清")-->dajun("大俊");
+  huangyuqing("黄玉清")-->daru("大儒");
+  daru("大儒")-->minglong("明龙");
+  daru("大儒")-->minglang("明朗");
+  daru("大儒")-->mingzhang("明璋");
+  daru("大儒")-->minggui("明硅");
+  huangyuqing("黄玉清")-->dawei("大伟");
+{% endmermaid %}
 
 ## 四、黄海洪三子黄永顺后裔
 
