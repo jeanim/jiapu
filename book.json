@@ -15,7 +15,8 @@
         "abc2svg",
         "advanced-emoji",
         "anchor-navigation",
-        "autosize-iframe"
+        "autosize-iframe",
+        "diy-introduction"
     ],
     "pluginsConfig": {
         "duoshuo": {
