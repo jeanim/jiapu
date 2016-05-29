@@ -18,7 +18,8 @@
         "autosize-iframe",
         "diy-introduction",
         "fancybox",
-        "forkmegithub"
+        "forkmegithub",
+        "gtoc"
     ],
     "pluginsConfig": {
         "duoshuo": {
@@ -35,6 +36,6 @@
         },
         "forkmegithub": {
             "url": "https://github.com/jeanim/jiapu"
-    }
+        }
     }
 }
