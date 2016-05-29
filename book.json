@@ -5,7 +5,7 @@
         "mermaid"
     ],
     "pluginsConfig": {
-        "mermaid":{
+        "mermaid.sequenceConfig":{
             diagramMarginX:10,
             diagramMarginY:5,
             boxTextMargin:5,
