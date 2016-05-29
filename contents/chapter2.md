@@ -2,7 +2,17 @@
 
 ## 一、粤东末入川录
 
-待编辑
+{% mermaid %}
+graph TB;
+  huangfuyi["黄福义"]-->huangwenzhong["黄文忠"];
+  huangwenzhong["黄文忠"]-->zhongxuan["仲宣"];
+  huangwenzhong["黄文忠"]-->zhonghua["仲华"];
+  huangwenzhong["黄文忠"]-->zhonghui["仲辉"];
+  huangwenzhong["黄文忠"]-->zhongxiang["仲祥"];
+  huangwenzhong["黄文忠"]-->zhongjing["仲敬"];
+  huangwenzhong["黄文忠"]-->zhongmin["仲敏"];
+  huangwenzhong["黄文忠"]-->zhonghai["仲海"];
+{% endmermaid %}
 
 
 ## 二、黄海洪长子黄永全后裔
@@ -16,11 +26,3 @@
 ## 四、黄海洪三子黄永顺后裔
 
 待编辑
-
-{% mermaid %}
-graph LR;
-  A["黄福义"]-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-{% endmermaid %}
