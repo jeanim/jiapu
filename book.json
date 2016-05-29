@@ -22,6 +22,9 @@
             "base": "https://github.com/jeanim/jiapu/edit/master",
             "label": "Edit This Page",
             "multilingual": false
-        }
+        },
+        "github": {
+            "url": "https://github.com/jeanim/jiapu"
+        }        
     }
 }
