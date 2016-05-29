@@ -267,7 +267,7 @@ graph LR;
   dabin("大宾")-->mingjian("明见");
   dabin("大宾")-->mingyue("明跃");
   dabin("大宾")-->mingwei("明韦");
-  dabin("大宾")-->mingtao("明韬");
+  dabin("大宾")-->mingtao2("明韬");
   huangyuting("黄玉庭")-->dazan("大赞");
   huangyuting("黄玉庭")-->dabao("大宝");
   dabao("大宝")-->minglue("明略");
