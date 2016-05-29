@@ -24,6 +24,8 @@ graph LR;
   zhongxuan["仲宣"]-->yuanli2["元礼"];
   huangwenzhong["黄文忠"]-->zhonghua["仲华"];
   zhonghua["仲华"]-->kezhong["克忠"];
+  Note over kezhong: 广东省韶州府乳源县训导、推
+  官、举人
   kezhong["克忠"]-->huangrong["黄荣"];
   huangrong["黄荣"]-->risheng["日升"];
   risheng["日升"]-->huanghaihong["黄海洪"];
