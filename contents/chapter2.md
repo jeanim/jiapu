@@ -37,7 +37,6 @@ graph LR;
   huangmingcai("黄明才")-->guofu("国富");
   huangdazhong("黄大忠")-->huangmingyong("黄明用");
   huangmingyong("黄明用")-->guosheng("国胜");
-  guosheng("国胜")>"夫人吴氏入川始祖"];
   huangmingyong("黄明用")-->guorong("国荣");
   huangmingyong("黄明用")-->guosen("国森");
   huangmingyong("黄明用")-->guozhi2("国质");
@@ -59,7 +58,7 @@ graph LR;
   huangwenzhong("黄文忠")-->zhongxiang("仲祥");
   huangwenzhong("黄文忠")-->zhongjing("仲敬");
   huangwenzhong("黄文忠")-->zhongmin("仲敏");
-  huangwenzhong("黄文忠")-->zhonghai("仲海"); 
+  huangwenzhong("黄文忠")-->zhonghai("仲海");  
 {% endmermaid %}
 
 
