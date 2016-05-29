@@ -5,7 +5,8 @@
         "mermaid",
         "anchor-navigation",
         "betterchinese",
-        "bootstrapjs"
+        "bootstrapjs",
+        "footer"
     ],
     "pluginsConfig": {}
 }
