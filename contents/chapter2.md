@@ -112,13 +112,13 @@ graph LR;
   guosong("国松")-->zhengx("政X");
   mingjing("明经")-->guopu("国朴");
   mingjing("明经")-->guozi("国梓");
-  huangdachun("黄大春")--mingjin("明缙");
-  huangdachun("黄大春")--minggang("明纲");
-  huangdachun("黄大春")--mingshao("明绍");
-  huangdachun("黄大春")--minglun("明纶");
-  huangdachun("黄大春")--mingji("明纪");
-  huangdachun("黄大春")--mingwen("明缊");
-  huangdachun("黄大春")--mingchun("明纯");
+  huangdachun("黄大春")-->mingjin("明缙");
+  huangdachun("黄大春")-->minggang("明纲");
+  huangdachun("黄大春")-->mingshao("明绍");
+  huangdachun("黄大春")-->minglun("明纶");
+  huangdachun("黄大春")-->mingji("明纪");
+  huangdachun("黄大春")-->mingwen("明缊");
+  huangdachun("黄大春")-->mingchun("明纯");
   yongquan("永全")-->huanghui("黄辉");
 {% endmermaid %}
 
