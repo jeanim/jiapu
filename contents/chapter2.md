@@ -39,7 +39,7 @@ graph LR;
   huangmingyong("黄明用")-->guosheng("国胜");
   huangmingyong("黄明用")-->guorong("国荣");
   huangmingyong("黄明用")-->guosen("国森");
-  huangmingyong("黄明用")-->guozhi("国质");
+  huangmingyong("黄明用")-->guozhi2("国质");
   huangdazhong("黄大忠")-->huangmingde("黄明德");
   huangmingde("黄明德")-->guolu("国禄");
   huangmingde("黄明德")-->guoxiu("国秀");
