@@ -9,5 +9,10 @@
         "duoshuo",
         "betterchinese"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "duoshuo": {
+            "short_name": "huangshijiapu",
+            "theme": "default"
+        }    
+    }
 }
