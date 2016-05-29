@@ -7,5 +7,5 @@
 * [第二章 粤东末入川录](contents/chapter2.md)
 * [第三章 黄族入川后裔世系](contents/chapter3.md)
 * [第四章 黄族后裔生辰序](contents/chapter4.md)
-* 第五章 历代黄姓人物
+* [第五章 历代黄姓人物](contents/chapter5.md)
 
