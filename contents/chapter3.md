@@ -40,7 +40,7 @@
 ## 三、黄和盛长子黄占庭世系表
 
 {% mermaid %}
-graph TD;
+graph LR;
   huangzhanting("黄占庭")-->huangxiangde("黄香德");
   huangxiangde("黄香德")-->haungkuanshou("黄宽寿(原记谱人)");
   haungkuanshou("黄宽寿(原记谱人)")-->huanggaoyun("黄高云");
@@ -115,7 +115,7 @@ graph TD;
 ## 五、黄和盛三子黄占富世系表
 
 {% mermaid %}
-graph TD;
+graph LR;
   huangzhanfu("黄占富")-->huangxiangxiang("黄香祥");
   huangxiangxiang("黄香祥")-->huangkuanliang("黄宽亮");
   huangkuanliang("黄宽亮")-->huanggaohong("黄高洪");
@@ -175,7 +175,7 @@ graph TD;
 ## 六、黄和盛四子黄占贵世系表
 
 {% mermaid %}
-graph TD;
+graph LR;
   huangzhanchun("黄占贵")-->huangxianglu("黄香陆");
   huangxianglu("黄香陆")-->huangkuanquan("黄宽全");
   huangkuanquan("黄宽全")-->huanggaohong("黄高洪");
@@ -240,7 +240,7 @@ graph TD;
 ## 七、黄和盛五子黄占春世系表
 
 {% mermaid %}
-graph TD;
+graph LR;
   huangzhanchun("黄占春")-->huangxiangwei("黄香位");
   huangzhanchun("黄占春")-->huangxiangbing("黄香炳");
   huangzhanchun("黄占春")-->huangxiangyu("黄香玉(女)");
