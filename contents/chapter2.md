@@ -6,9 +6,12 @@
 graph TB;
   huangfuyi["黄福义"]-->huangwenzhong["黄文忠"];
   huangwenzhong["黄文忠"]-->zhongxuan["仲宣"];
+  
   zhongxuan["仲宣"]-->yuanlu["元禄"];
   yuanlu["元禄"]-->jingwen["金稳"];
   yuanlu["元禄"]-->huangzuo["黄佐"];
+  huangzuo["黄佐”]-->daqiu["大球"];
+  huangzuo["黄佐”]-->dazhu["大珠"];  
 {% endmermaid %}
 
 
