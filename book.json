@@ -11,7 +11,8 @@
         "infinitescroll",
         "-mermaid-2",
         "mermaid-compat",
-        "search-pro"
+        "search-pro",
+        "sellerui"
     ],
     "pluginsConfig": {}
 }
