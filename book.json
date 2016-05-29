@@ -13,7 +13,8 @@
         "book-summary-scroll-position-saver",
         "github",
         "abc2svg",
-        "advanced-emoji"
+        "advanced-emoji",
+        "anchor-navigation"
     ],
     "pluginsConfig": {
         "duoshuo": {
