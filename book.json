@@ -9,7 +9,8 @@
         "duoshuo",
         "betterchinese",
         "edit-link",
-        "add-header"
+        "add-header",
+        "book-summary-scroll-position-saver"
     ],
     "pluginsConfig": {
         "duoshuo": {
