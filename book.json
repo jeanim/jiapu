@@ -3,7 +3,7 @@
         "yahei",
         "-new-flowchart",
         "mermaid",
-        "anchor-navigation",
+        "-anchor-navigation",
         "betterchinese",
         "-bootstrapjs",
         "-footer",
