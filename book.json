@@ -8,7 +8,8 @@
         "exercises",
         "duoshuo",
         "betterchinese",
-        "edit-link"
+        "edit-link",
+        "add-header"
     ],
     "pluginsConfig": {
         "duoshuo": {
@@ -18,7 +19,7 @@
         "edit-link": {
             "base": "https://github.com/jeanim/jiapu/edit/master",
             "label": "Edit This Page",
-            "multilingual": false         
-        }       
+            "multilingual": false
+        }
     }
 }
