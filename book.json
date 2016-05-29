@@ -13,7 +13,7 @@
         "-mermaid-compat",
         "search-pro",
         "-sellerui",
-        "splitter",
+        "-splitter",
         "tbfed-pagefooter",
         "toolbar",
         "word-count"
