@@ -10,7 +10,8 @@
         "github-buttons",
         "infinitescroll",
         "-mermaid-2",
-        "mermaid-compat"
+        "mermaid-compat",
+        "search-pro"
     ],
     "pluginsConfig": {}
 }
