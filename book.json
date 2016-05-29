@@ -15,7 +15,8 @@
         "sellerui",
         "splitter",
         "tbfed-pagefooter",
-        "toolbar"
+        "toolbar",
+        "word-count"
     ],
     "pluginsConfig": {}
 }
