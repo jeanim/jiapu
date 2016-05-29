@@ -52,7 +52,7 @@ graph LR;
   guojin("国进")-->siyuan("四元");
   yongquan("永全")-->huangzi("黄孜");
   huangzi("黄孜")-->huangyuqing("黄玉卿");
-  huangzi("黄孜")>huangdachun("黄大春");
+  huangzi("黄孜")-->huangdachun("黄大春");
   yongquan("永全")-->huanghui("黄辉");  
   huanghaihong("黄海洪")-->yongde("永德");
   huanghaihong("黄海洪")-->yongshun("永顺");
