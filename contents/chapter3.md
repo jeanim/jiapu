@@ -82,7 +82,7 @@ graph LR;
 ## 四、黄和盛次子黄占华世系表
 
 {% mermaid %}
-graph TD;
+graph LR;
   huangzhanhua("黄占华")-->huangxiangwu("黄香武");
   huangxiangwu("黄香武")-->huangkuanzhi("黄宽志");
   huangkuanzhi("黄宽志")-->huanggaochun("黄高春");
