@@ -2,8 +2,7 @@
     "plugins": [
         "yahei",
         "-new-flowchart",
-        "mermaid",
-        "annotate"
+        "mermaid"
     ],
     "pluginsConfig": {}
 }
