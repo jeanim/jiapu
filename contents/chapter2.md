@@ -28,13 +28,35 @@ graph LR;
   huangrong("黄荣")-->risheng("日升");
   risheng("日升")-->huanghaihong("黄海洪");
   huanghaihong("黄海洪")-->yongquan("永全");
+  yongquan("永全")-->huangtai("黄泰");
+  huangtai("黄泰")-->huangyushou("黄玉受");
+  huangyushou("黄玉受")-->huangdazhong("黄大忠");
+  huangdazhong("黄大忠")-->huangmingcai("黄明才");
+  huangmingcai("黄明才")-->guozhi("国志");
+  huangmingcai("黄明才")-->guohui("国会");
+  huangmingcai("黄明才")-->guofu("国富");
+  huangdazhong("黄大忠")-->huangmingyong("黄明用");
+  huangmingyong("黄明用")-->guosheng("国胜");
+  huangmingyong("黄明用")-->guorong("国荣");
+  huangmingyong("黄明用")-->guosen("国森");
+  huangmingyong("黄明用")-->guozhi("国质");
+  huangdazhong("黄大忠")-->huangmingde("黄明德");
+  huangmingde("黄明德")-->guolu("国禄");
+  huangmingde("黄明德")-->guoxiu("国秀");
+  huangmingde("黄明德")-->guojian("国荐");
+  huangmingde("黄明德")-->guoxi("国锡");
+  huangmingde("黄明德")-->guojin("国进");
+  guojin("国进")-->zhongqiu("中秋");
+  guojin("国进")-->baolin("保林");
+  guojin("国进")-->sanyuan("三元");
+  guojin("国进")-->siyuan("四元");
   huanghaihong("黄海洪")-->yongde("永德");
   huanghaihong("黄海洪")-->yongshun("永顺");
   huangwenzhong("黄文忠")-->zhonghui("仲辉");
   huangwenzhong("黄文忠")-->zhongxiang("仲祥");
   huangwenzhong("黄文忠")-->zhongjing("仲敬");
   huangwenzhong("黄文忠")-->zhongmin("仲敏");
-  huangwenzhong("黄文忠")-->zhonghai("仲海");  
+  huangwenzhong("黄文忠")-->zhonghai("仲海"); 
 {% endmermaid %}
 
 
