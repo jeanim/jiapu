@@ -1,7 +1,7 @@
 {
     "plugins": [
         "yahei",
-        "new-flowchart"
+        "-new-flowchart"
     ],
     "pluginsConfig": {}
 }
