@@ -8,7 +8,7 @@
         "-bootstrapjs",
         "-footer",
         "-github-buttons",
-        "infinitescroll",
+        "-infinitescroll",
         "-mermaid-2",
         "-mermaid-compat",
         "search-pro",
