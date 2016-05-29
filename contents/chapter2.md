@@ -168,7 +168,7 @@ graph LR;
   mingji("明纪")-->guoyi("国嶷");
   guoyi("国嶷")-->zhengjie("政杰");
   mingji("明纪")-->guoqu("国岖");
-  guoqu("国岖")-->zhengyi("政遗");
+  guoqu("国岖")-->zhengyi2("政遗");
   guoqu("国岖")-->zhengtong("政通");
   huangdachun("黄大春")-->mingwen("明缊");
   mingwen("明缊")-->guozheng2("国震");
