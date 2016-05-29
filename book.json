@@ -19,7 +19,8 @@
         "diy-introduction",
         "fancybox",
         "forkmegithub",
-        "gtoc"
+        "gtoc",
+        "hide-published-with"
     ],
     "pluginsConfig": {
         "duoshuo": {
