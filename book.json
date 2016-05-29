@@ -2,7 +2,7 @@
     "plugins": [
         "yahei",
         "-new-flowchart",
-        "mermaid",
+        "-mermaid",
         "anchor-navigation",
         "betterchinese",
         "bootstrapjs",
