@@ -39,15 +39,138 @@
 
 ## 三、黄和盛长子黄占庭世系表
 
-待编辑
+{% mermaid %}
+graph TD;
+  huangzhanting("黄占庭")-->huangxiangde("黄香德");
+  huangxiangde("黄香德")-->haungkuanshou("黄宽寿(原记谱人)");
+  haungkuanshou("黄宽寿(原记谱人)")-->huanggaoyun("黄高云");
+  huanggaoyun("黄高云")-->huangzhu("黄竹");
+  huanggaoyun("黄高云")-->huangqiao("黄乔(女)");
+  haungkuanshou("黄宽寿(原记谱人)")-->huanggaobi("黄高碧(女)");
+  haungkuanshou("黄宽寿(原记谱人)")-->huanggaoying("黄高英(女)");
+  haungkuanshou("黄宽寿(原记谱人)")-->huanggaoqiong("黄高琼(女)");
+  huangxiangde("黄香德")-->haungkuanzhen("黄宽珍(女)");
+  huangxiangde("黄香德")-->haungkuanyu("黄宽玉(女)");
+  huangxiangde("黄香德")-->haungkuancui("黄宽翠(女)");
+  huangzhanting("黄占庭")-->huangxiangfu("黄香福");
+  huangxiangfu("黄香福")-->huangkuangeng("黄宽庚");
+  huangkuangeng("黄宽庚")-->huanggaobing("黄高兵");
+  huanggaobing("黄高兵")-->huangjingxian("黄婧娴(女)");
+  huanggaobing("黄高兵")-->huangjingwen("黄婧雯(女)");
+  huangkuangeng("黄宽庚")-->huanggaoqin("黄高琴(女)");
+  huangxiangfu("黄香福")-->huangkuanming("黄宽明");
+  huangkuanming("黄宽明")-->huanggaojian("黄高建");
+  huanggaojian("黄高建")-->huangyutong("黄雨彤(女)");
+  huangkuanming("黄宽明")-->huanggaoyan("黄高燕(女)");
+  huangzhanting("黄占庭")-->huangxiangshun("黄香顺");
+  huangxiangshun("黄香顺")-->huangkuanxing("黄宽兴");
+  huangkuanxing("黄宽兴")-->huanggaobo("黄高波");
+  huanggaobo("黄高波")-->huangdi("黄迪");
+  huanggaobo("黄高波")-->huangchenxi("黄晨曦(女)");
+  huangkuanxing("黄宽兴")-->huanggaolan("黄高兰(女)");
+  huangxiangshun("黄香顺")-->huangkuanzhong("黄宽忠");
+  huangxiangshun("黄香顺")-->huangkuanjun("黄宽君(续谱人)(现居住达州市通川区西外达钢)");
+  huangkuanjun("黄宽君(续谱人)(现居住达州市通川区西外达钢)")-->huangzhiying("黄志颖");
+  huangxiangshun("黄香顺")-->huangkuan("黄宽(女)");
+  huangxiangshun("黄香顺")-->huangkuan("黄宽(女)");
+  huangxiangshun("黄香顺")-->huangkuan("黄宽(女)");
+  huangzhanting("黄占庭")-->huangxiangzhen("黄香珍(女)");
+  huangzhanting("黄占庭")-->huangxiangrong("黄香蓉(女)");  
+{% endmermaid %}
+其余居住大竹县金鸡乡花楼村二组(原四组)(东风桥新屋湾)
 
 ## 四、黄和盛次子黄占华世系表
 
-待编辑
+{% mermaid %}
+graph TD;
+  huangzhanhua("黄占华")-->huangxiangwu("黄香武");
+  huangxiangwu("黄香武")-->huangkuanzhi("黄宽志");
+  huangkuanzhi("黄宽志")-->huanggaochun("黄高春");
+  huanggaochun("黄高春")-->huangxx("黄XX");
+  huangkuanzhi("黄宽志")-->huanggaoman("黄高满(女)");
+  huangxiangwu("黄香武")-->huangkuanhuo("黄宽活");
+  huangkuanhuo("黄宽活")-->huanggaoming("黄高明");
+  huangkuanhuo("黄宽活")-->huanggaoyong("黄高勇");
+  huangxiangwu("黄香武")-->huangkuanxue("黄宽学");
+  huangxiangwu("黄香武")-->huangkuanzhen("黄宽珍(女)");
+  huangzhanhua("黄占华")-->huangxianggui("黄香贵(仁太)");
+  huangxianggui("黄香贵(仁太)")-->huangkuanwu("黄宽武(现居贵州省)");
+  huangzhanhua("黄占华")-->huangxianglong("黄香龙");
+  huangxianglong("黄香龙")-->huangkuankun("黄宽坤");
+  huangxianglong("黄香龙")-->huangkuanlun("黄宽伦");
+  huangkuanlun("黄宽伦")-->huanggaosheng("黄高升");
+  huangkuanlun("黄宽伦")-->huanggaosi("黄高思(女)");
+  huangzhanhua("黄占华")-->huangxiangru("黄香儒");
+  huangxiangru("黄香儒")-->huangkuanfeng("黄宽锋");
+  huangkuanfeng("黄宽锋")-->huanggaojun("黄高君");
+  huanggaojun("黄高君")-->huanghaoran("黄浩然");
+  huangxiangru("黄香儒")-->huangkuanxiang("黄宽祥");
+  huangkuanxiang("黄宽祥")-->huanggaofei("黄高飞");
+  huangkuanxiang("黄宽祥")-->huanggaosong("黄高松");
+  huangxiangru("黄香儒")-->huangkuanhui("黄宽惠(女)");
+  huangzhanhua("黄占华")-->huangxiangju("黄香菊(女)");
+{% endmermaid %}
+其余居住大竹县金鸡乡花楼村二组(原四组)(东风桥新屋湾)
 
 ## 五、黄和盛三子黄占富世系表
 
-待编辑
+{% mermaid %}
+graph TD;
+  huangzhanfu("黄占富")-->huangxiangxiang("黄香祥");
+  huangxiangxiang("黄香祥")-->huangkuanliang("黄宽亮");
+  huangkuanliang("黄宽亮")-->huanggaohong("黄高洪");
+  huangkuanliang("黄宽亮")-->huanggaoli("黄高莉(女)");
+  huangxiangxiang("黄香祥")-->huangkuanmo("黄宽模");
+  huangkuanmo("黄宽模")-->huangxiuqin("黄秀琴(女)");
+  huangkuanmo("黄宽模")-->huangxiujuan("黄秀娟(女)");
+  huangxiangxiang("黄香祥")-->huangkuancai("黄宽才");
+  huangkuancai("黄宽才")--huanggaohua("黄高华");
+  huanggaohua("黄高华")-->huangx("黄X");
+  huangkuancai("黄宽才")--huanggaoying("黄高英(女)");
+  huangxiangxiang("黄香祥")-->huangkuantai("黄宽太");
+  huangkuantai("黄宽太")-->huanggaoyan("黄高宴(女)");
+  huangxiangxiang("黄香祥")-->huangkuanming("黄宽明(女)");
+  huangzhanfu("黄占富")-->huangxiangli("黄香礼");
+  huangxiangli("黄香礼")-->huangkuanhong("黄宽洪");
+  huangkuanhong("黄宽洪")-->huangxian("黄仙(女)");
+  huangkuanhong("黄宽洪")-->huangya("黄娅(女)");
+  huangxiangli("黄香礼")-->huangkuanxin("黄宽信");
+  huangkuanxin("黄宽信")-->huanggaowei("黄高伟");
+  huanggaowei("黄高伟")-->huangx("黄X");
+  huangkuanxin("黄宽信")-->huangxiaoshu("黄小书(女)");
+  huangxiangli("黄香礼")-->huangkuanqi("黄宽奇");
+  huangkuanqi("黄宽奇")-->huangyu("黄宇");
+  huangkuanqi("黄宽奇")-->huangdan("黄丹(女)");
+  huangxiangli("黄香礼")-->huangkuanlun("黄宽伦");
+  huangkuanlun("黄宽伦")-->huanggaowen("黄高文");
+  huanggaowen("黄高文")-->huangx("黄X");
+  huangxiangli("黄香礼")-->huangsurong("黄素容(女)");
+  huangzhanfu("黄占富")-->huangxiangquan("黄香全");
+  huangxiangquan("黄香全")-->huagnxiaolin("黄晓林(大竹检察院)");
+  huagnxiaolin("黄晓林(大竹检察院)")-->huangchao("黄超");
+  huangxiangquan("黄香全")-->huagnxiaoli("黄晓莉(女)");
+  huangxiangquan("黄香全")-->huagnxiaomin("黄晓敏(女)");
+  huangxiangquan("黄香全")-->huagnxiaoqiong("黄晓琼(女)");
+  huangzhanfu("黄占富")-->huangxiangxue("黄香学");
+  huangxiangxue("黄香学")-->huangkuanhua("黄宽华");
+  huangkuanhua("黄宽华")-->huanggaowei("黄高伟");
+  huangkuanhua("黄宽华")-->huanggaofei("黄高飞(女)");
+  huangxiangxue("黄香学")-->huangkuanrong("黄宽容(女)");
+  huangxiangxue("黄香学")-->huangkuan("黄宽碧(女)");
+  huangxiangxue("黄香学")-->huangkuan("黄宽炳(女)");
+  huangzhanfu("黄占富")-->huangxiangyou("黄香友");
+  huangxiangyou("黄香友")-->huangkuanjun("黄宽均");
+  huangkuanjun("黄宽均")-->huanggaojian("黄高健");
+  huanggaojian("黄高健")-->huangkexin("黄可欣");
+  huangxiangyou("黄香友")-->huangkuanping("黄宽平(女)");
+  huangxiangyou("黄香友")-->huangkuanfen("黄宽芬(女)");
+  huangxiangyou("黄香友")-->huangkuanqing("黄宽清(女)");
+  huangzhanfu("黄占富")-->huangxiangshou("黄香寿");
+  huangxiangshou("黄香寿")-->huangkuanchao("黄宽超");
+  huangxiangshou("黄香寿")-->huangkuanmei("黄宽梅(女)");
+  huangxiangshou("黄香寿")-->huangkuanjuan("黄宽娟(女)");
+{% endmermaid %}
+其余居住大竹县金鸡乡花楼村三组(原五组、六组)(东风桥向阳坝)
 
 ## 六、黄和盛四子黄占贵世系表
 
