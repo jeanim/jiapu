@@ -3,7 +3,8 @@
         "-yahei",
         "-new-flowchart",
         "mermaid",
-        "maobu"
+        "maobu",
+        "multipart"
     ],
     "pluginsConfig": {}
 }
