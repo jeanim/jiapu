@@ -236,7 +236,6 @@ graph LR;
   huangzhanchun("黄占贵")-->huangxiangchui("黄香翠(女)");
 {% endmermaid %}
 
-
 ## 七、黄和盛五子黄占春世系表
 
 {% mermaid %}
