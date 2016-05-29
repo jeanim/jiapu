@@ -18,7 +18,7 @@
 待编辑
 
 {% mermaid %}
-graph TD;
+graph LB;
   A["黄福义"]-->B;
   A-->C;
   B-->D;
