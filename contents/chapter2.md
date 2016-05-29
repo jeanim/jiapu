@@ -3,7 +3,7 @@
 ## 一、粤东末入川录
 
 {% mermaid %}
-graph TB;
+graph LR;
   huangfuyi["黄福义"]-->huangwenzhong["黄文忠"];
   huangwenzhong["黄文忠"]-->zhongxuan["仲宣"];
   zhongxuan["仲宣"]-->yuanlu["元禄"];
