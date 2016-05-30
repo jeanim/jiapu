@@ -50,7 +50,7 @@ graph LR;
   huangmingcai("黄明才")-->guohui("国会");
   huangmingcai("黄明才")-->guofu("国富");
   huangdazhong("黄大忠")-->huangmingyong("黄明用");
-  huangmingyong("黄明用")-->guosheng("国胜");
+  huangmingyong("黄明用")-->guosheng("国胜(妣吴氏入川)");
   huangmingyong("黄明用")-->guorong("国荣");
   huangmingyong("黄明用")-->guosen("国森");
   huangmingyong("黄明用")-->guozhi2("国质");
