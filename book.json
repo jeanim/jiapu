@@ -46,12 +46,10 @@
             "theme": "default"
         },
         "mermaid": {
-            "diagramMarginX":20,
-            "diagramMarginY":5,
-            "boxTextMargin":2,
-            "noteMargin":5,
-            "messageMargin":20,
-            "mirrorActors":true
+            graph: {
+              "diagramMarginX":20,
+              "diagramMarginY":5,
+            }
         }
     }
 }
