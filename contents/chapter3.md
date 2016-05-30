@@ -135,7 +135,7 @@ graph LR;
   zhongxin("中心")-->huangheshu("黄和书");
   huangheshu("黄和书")-->zhanx("占X");
   zhanx("占X")-->xiangx("香X");
-  xiangx("香X")-->huangkuanming("黄宽明(庙坝)");
+  xiangx("香X")-->huangkuanming2("黄宽明(庙坝)");
   zhongxin("中心")-->huanghegeng("黄和庚");
   huanghongji("黄宏基")-->huangyidong("黄毅栋");
   huanghongji("黄宏基")-->huangyiguan("黄毅官");
