@@ -20,7 +20,10 @@
         "fancybox",
         "forkmegithub",
         "gtoc",
-        "hide-published-with"
+        "hide-published-with",
+        "splitter",
+        "tbfed-pagefooter",
+        "sectionx"
     ],
     "pluginsConfig": {
         "duoshuo": {
@@ -37,9 +40,6 @@
         },
         "forkmegithub": {
             "url": "https://github.com/jeanim/jiapu"
-        },
-        "tbfed-pagefooter": {
-            "copyright":"Copyright © https://huangshijiapu.gitbooks.io/jiapu/content/ 2016",
-        }        
+        }
     }
 }
