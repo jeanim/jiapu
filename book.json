@@ -1,8 +1,4 @@
 {
-    "links" : {
-        "sidebar" : {
-            "Home" : "https://huangshijiapu.gitbooks.io/jiapu/content/"
-    },
     "plugins": [
         "yahei",
         "-new-flowchart",
@@ -24,7 +20,8 @@
         "fancybox",
         "forkmegithub",
         "gtoc",
-        "hide-published-with"
+        "hide-published-with",
+        "splitter"
     ],
     "pluginsConfig": {
         "duoshuo": {
