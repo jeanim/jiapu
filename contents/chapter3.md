@@ -186,7 +186,7 @@ graph LR;
   xiangde("香德")-->kuanhong("宽洪");
   kuanhong("宽洪")-->zhixiang("智祥");
   kuanhong("宽洪")-->huangmin("黄敏(女)");
-  xiangde("香德")-->xiaoyan("小燕(女)");
+  xiangde("香德")-->xiaoyan2("小燕(女)");
   xiangde("香德")-->kuanhua("宽华");
   kuanhua("宽华")-->yuting("榆婷(女)");
   kuanhua("宽华")-->yuchen("宇晨");
