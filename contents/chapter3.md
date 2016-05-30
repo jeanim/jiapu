@@ -235,7 +235,7 @@ graph LR;
   huangguangde("黄光德")-->huanghongyou("黄宏猷");
   huangguangde("黄光德")-->huanghongru("黄宏儒");
   huangchanggui("黄昌贵(妣刘氏)")-->huangxiande("黄显德");
-  style huangguosheng fill:#f9f,stroke:#333,stroke-width:4px;
+  style huangguosheng2 fill:#f9f,stroke:#333,stroke-width:4px;
   style huangzhengxuan fill:#f9f,stroke:#333,stroke-width:4px;
   style huangchanggui fill:#f9f,stroke:#333,stroke-width:4px;
   style huangxianqin fill:#f9f,stroke:#333,stroke-width:4px;
