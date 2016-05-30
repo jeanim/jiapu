@@ -110,7 +110,7 @@ graph LR;
   huangxiangru("黄香儒")-->huangkuanhui("黄宽惠(女)");
   huangzhanhua("黄占华")-->huangxiangju("黄香菊(女)");
 {% endmermaid %}
-其余居住大竹县金鸡乡花楼村二组(原四组)(东风桥新屋湾)
+<center>其余居住大竹县金鸡乡花楼村二组(原四组)(东风桥新屋湾)</center>
 
 ## 五、黄和盛三子黄占富世系表
 
@@ -170,7 +170,7 @@ graph LR;
   huangxiangshou("黄香寿")-->huangkuanmei("黄宽梅(女)");
   huangxiangshou("黄香寿")-->huangkuanjuan("黄宽娟(女)");
 {% endmermaid %}
-其余居住大竹县金鸡乡花楼村三组(原五组、六组)(东风桥向阳坝)
+<center>其余居住大竹县金鸡乡花楼村三组(原五组、六组)(东风桥向阳坝)</center>
 
 ## 六、黄和盛四子黄占贵世系表
 
@@ -258,4 +258,4 @@ graph LR;
   huangkuanwen("黄宽文")-->huangjing("黄静(女)");
   huangxiangbing("黄香炳")-->huangkuanqiong("黄宽琼(女)");
 {% endmermaid %}
-居住大竹县金鸡乡花楼村二组(原四组)(东风桥新屋湾)
+<center>居住大竹县金鸡乡花楼村二组(原四组)(东风桥新屋湾)</center>
