@@ -45,7 +45,7 @@
             "short_name": "huangshijiapu",
             "theme": "default"
         },
-        "mermaid.sequenceConfig": {
+        "mermaid": {
             "diagramMarginX":20,
             "diagramMarginY":5,
             "boxTextMargin":2,
