@@ -237,6 +237,7 @@ graph LR;
   huangchanggui("黄昌贵(妣刘氏)")-->huangxiande("黄显德");
   style huangguosheng fill:#f9f,stroke:#333,stroke-width:4px;
   style huangzhengxuan fill:#f9f,stroke:#333,stroke-width:4px;
+  style huangduange fill:#f9f,stroke:#333,stroke-width:4px;  
   style huangchanggui fill:#f9f,stroke:#333,stroke-width:4px;
   style huangxianqin fill:#f9f,stroke:#333,stroke-width:4px;
   style huangguangquan fill:#f9f,stroke:#333,stroke-width:4px;  
