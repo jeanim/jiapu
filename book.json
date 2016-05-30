@@ -1,7 +1,6 @@
 {
     "plugins": [
         "yahei",
-        "-new-flowchart",
         "mermaid",
         "maobu",
         "multipart",
