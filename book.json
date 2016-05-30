@@ -25,10 +25,6 @@
         "sectionx"
     ],
     "pluginsConfig": {
-        "duoshuo": {
-            "short_name": "huangshijiapu",
-            "theme": "default"
-        },
         "edit-link": {
             "base": "https://github.com/jeanim/jiapu/edit/master",
             "label": "Edit This Page",
@@ -44,6 +40,10 @@
           "copyright":"Copyright 2015-2016 CGENTER",
           "modify_label": "该文件修订时间：",
           "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "duoshuo": {
+            "short_name": "huangshijiapu",
+            "theme": "default"
         }        
     }
 }
