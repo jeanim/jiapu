@@ -116,7 +116,7 @@ graph LR;
   huangkuanzhong("黄宽忠")-->qisu("奇谡");
   huangxiangqing("黄香清")-->huangkuanjian("黄宽见");
   huangkuanjian("黄宽见")-->huangyao("黄瑶(女)");
-  huangxiangqing("黄香清")-->huangkuanfu("黄宽富");
+  huangxiangqing("黄香清")-->huangkuanfu2("黄宽富");
   huangxiangqing("黄香清")-->huangkuanfeng2("黄宽凤(女,夫舒启位)");
   zhongxin("中心")-->huanghexi("黄和喜");
   huanghexi("黄和喜")-->huangzhantian("黄占田");
