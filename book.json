@@ -1,4 +1,8 @@
 {
+    "links" : {
+        "sidebar" : {
+            "Home" : "https://huangshijiapu.gitbooks.io/jiapu"
+    },
     "plugins": [
         "yahei",
         "-new-flowchart",
