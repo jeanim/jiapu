@@ -27,7 +27,7 @@
     "pluginsConfig": {
         "edit-link": {
             "base": "https://github.com/jeanim/jiapu/edit/master",
-            "label": "Edit This Page",
+            "label": "编辑该页面",
             "multilingual": false
         },
         "github": {
