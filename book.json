@@ -46,7 +46,7 @@
             "theme": "default"
         },
         "mermaid": {
-            graph: {
+            "graph": {
               "diagramMarginX":20,
               "diagramMarginY":5,
             }
