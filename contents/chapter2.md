@@ -223,6 +223,11 @@ graph LR;
   huangyuxiang("黄玉相")-->huangdashu("黄大恕");
   huangyuxiang("黄玉相")-->huagndaxian("黄大憲(宪)");
   style huangyongquan fill:#f9f,stroke:#333,stroke-width:4px;
+  style huangtai fill:#f9f,stroke:#333,stroke-width:4px;
+  style huangyushou fill:#f9f,stroke:#333,stroke-width:4px; 
+  style huangdazhong fill:#f9f,stroke:#333,stroke-width:4px; 
+  style huangmingyong fill:#f9f,stroke:#333,stroke-width:4px; 
+  style guosheng fill:#f9f,stroke:#333,stroke-width:4px;   
 {% endmermaid %}
 
 ## 三、黄海洪次子黄永德后裔
