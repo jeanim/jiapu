@@ -35,6 +35,13 @@ graph LR;
   huangwenzhong("黄文忠")-->zhongjing("仲敬");
   huangwenzhong("黄文忠")-->zhongmin("仲敏");
   huangwenzhong("黄文忠")-->zhonghai("仲海");
+  style huangfuyi fill:#f9f,stroke:#333,stroke-width:4px;  
+  style huangwenzhong fill:#f9f,stroke:#333,stroke-width:4px;
+  style zhonghua fill:#f9f,stroke:#333,stroke-width:4px;  
+  style kezhong fill:#f9f,stroke:#333,stroke-width:4px;  
+  style huangrong fill:#f9f,stroke:#333,stroke-width:4px;  
+  style risheng fill:#f9f,stroke:#333,stroke-width:4px;  
+  style huanghaihong fill:#f9f,stroke:#333,stroke-width:4px;  
   style yongquan fill:#f9f,stroke:#333,stroke-width:4px;
 {% endmermaid %}
 
