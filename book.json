@@ -21,7 +21,8 @@
         "forkmegithub",
         "gtoc",
         "hide-published-with",
-        "splitter"
+        "splitter",
+        "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "duoshuo": {
