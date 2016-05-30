@@ -45,15 +45,13 @@
             "short_name": "huangshijiapu",
             "theme": "default"
         },
-        "mermaid": {
-            "sequenceConfig":{
-                "diagramMarginX":20,
-                "diagramMarginY":5,
-                "boxTextMargin":2,
-                "noteMargin":5,
-                "messageMargin":20,
-                "mirrorActors":true
-            }
+        "mermaid.sequenceConfig": {
+            "diagramMarginX":20,
+            "diagramMarginY":5,
+            "boxTextMargin":2,
+            "noteMargin":5,
+            "messageMargin":20,
+            "mirrorActors":true
         }
     }
 }
