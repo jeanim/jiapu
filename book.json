@@ -47,11 +47,11 @@
         },
         "mermaid": {
             "sequenceConfig":{
-                "diagramMarginX":50,
-                "diagramMarginY":10,
-                "boxTextMargin":5,
-                "noteMargin":10,
-                "messageMargin":35,
+                "diagramMarginX":20,
+                "diagramMarginY":5,
+                "boxTextMargin":2,
+                "noteMargin":5,
+                "messageMargin":20,
                 "mirrorActors":true
             }
         }
