@@ -34,7 +34,8 @@ graph LR;
   huangwenzhong("黄文忠")-->zhongxiang("仲祥");
   huangwenzhong("黄文忠")-->zhongjing("仲敬");
   huangwenzhong("黄文忠")-->zhongmin("仲敏");
-  huangwenzhong("黄文忠")-->zhonghai("仲海");  
+  huangwenzhong("黄文忠")-->zhonghai("仲海");
+  style yongquan fill:#f9f,stroke:#333,stroke-width:4px;
 {% endmermaid %}
 
 ## 二、黄海洪长子黄永全后裔
