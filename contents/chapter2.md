@@ -1,6 +1,6 @@
-# 第二章 粤东末入川录
+#第二章 粤东末入川录
 
-## 一、粤东末入川录
+##一、粤东末入川录
 
 {% mermaid %}
 graph LR;
@@ -45,7 +45,7 @@ graph LR;
   style yongquan fill:#f9f,stroke:#333,stroke-width:4px;
 {% endmermaid %}
 
-## 二、黄海洪长子黄永全后裔
+##二、黄海洪长子黄永全后裔
 
 {% mermaid %}
 graph LR;
@@ -237,7 +237,7 @@ graph LR;
   style guosheng fill:#f9f,stroke:#333,stroke-width:4px;   
 {% endmermaid %}
 
-## 三、黄海洪次子黄永德后裔
+##三、黄海洪次子黄永德后裔
 
 {% mermaid %}
 graph LR;
@@ -301,7 +301,7 @@ graph LR;
   huangyuqing("黄玉清")-->dawei("大伟");
 {% endmermaid %}
 
-## 四、黄海洪三子黄永顺后裔
+##四、黄海洪三子黄永顺后裔
 
 {% mermaid %}
 graph LR;
