@@ -234,7 +234,7 @@ graph LR;
   style huangyushou fill:#f9f,stroke:#333,stroke-width:4px; 
   style huangdazhong fill:#f9f,stroke:#333,stroke-width:4px; 
   style huangmingyong fill:#f9f,stroke:#333,stroke-width:4px; 
-  style guosheng fill:#f9f,stroke:#333,stroke-width:4px;   
+  style guosheng fill:#f9f,stroke:#333,stroke-width:4px; 
 {% endmermaid %}
 
 ## 三、黄海洪次子黄永德后裔
