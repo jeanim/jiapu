@@ -4,11 +4,16 @@
 * [前言](qian_yan.md)
 * [族谱序](zu_pu_xu.md)
 * [第一章 我黄族概考](contents/chapter1.md)
+<<<<<<< HEAD
     * [一、粤东迁竹邑南路高穴场](contents/chapter1.md## 一、粤东迁竹邑南路高穴场)
+=======
+    * [一、粤东迁竹邑南路高穴场](contents/chapter1.md##一、粤东迁竹邑南路高穴场)
+>>>>>>> 6fc0f1bf13923f5e79c8d7c0397578c3cf25ab91
     * [二、建清明会祠堂](contents/chapter1.md## 二、建清明会祠堂)
     * [三、赞入川始祖黄母吴氏](contents/chapter1.md## 三、赞入川始祖黄母吴氏)
     * [四、颂上川祖黄政选](contents/chapter1.md## 四、颂上川祖黄政选)
 * [第二章 粤东末入川录](contents/chapter2.md)
+<<<<<<< HEAD
     * [一、粤东末入川录](contents/chapter2.md## 一、粤东末入川录)
     * [二、黄海洪长子黄永全后裔](contents/chapter2.md## 二、黄海洪长子黄永全后裔)
     * [三、黄海洪次子黄永德后裔](contents/chapter2.md## 三、黄海洪次子黄永德后裔)
@@ -33,12 +38,37 @@
         * [(三) 黄和盛三子黄占富](contents/chapter4.md###(三) 黄和盛三子黄占富)
         * [(四) 黄和盛四子黄占贵](contents/chapter4.md###(四) 黄和盛四子黄占贵)
         * [(五) 黄和盛五子黄占春](contents/chapter4.md###(五) 黄和盛五子黄占春)
+=======
+    * [一、粤东末入川录](contents/chapter2.md##一、粤东末入川录)
+    * [二、黄海洪长子黄永全后裔](contents/chapter2.md##二、黄海洪长子黄永全后裔)
+    * [三、黄海洪次子黄永德后裔](contents/chapter2.md##三、黄海洪次子黄永德后裔)
+    * [四、黄海洪三子黄永顺后裔](contents/chapter2.md##四、黄海洪三子黄永顺后裔)
+* [第三章 黄族入川后裔世系](contents/chapter3.md)
+    * [一、黄族入川后裔世系](contents/chapter3.md##一、黄族入川后裔世系)
+    * [二、我族小清明会世系](contents/chapter3.md##二、我族小清明会世系)
+    * [三、黄和盛长子黄占庭世系表](contents/chapter3.md##三、黄和盛长子黄占庭世系表)
+    * [四、黄和盛次子黄占华世系表](contents/chapter3.md##四、黄和盛次子黄占华世系表)
+    * [五、黄和盛三子黄占富世系表](contents/chapter3.md##五、黄和盛三子黄占富世系表)
+    * [六、黄和盛四子黄占贵世系表](contents/chapter3.md##六、黄和盛四子黄占贵世系表)
+    * [七、黄和盛五子黄占春世系表](contents/chapter3.md##七、黄和盛五子黄占春世系表)
+* [第四章 黄族后裔生辰序](contents/chapter4.md)
+    * [一、先训](contents/chapter4.md##一、先训)
+    * [二、历代祖序后](contents/chapter4.md##二、历代祖序后)
+        * [1、自中堂开基](contents/chapter4.md###1、自中堂开基)
+        * [2、自广东入川（曾祖黄中执续谱）](contents/chapter4.md###2、自广东入川（曾祖黄中执续谱）)
+        * [3、祖辈系（部分由祖族他人记谱，部分由堂兄黄宽寿记谱）](contents/chapter4.md###3、祖辈系（部分由祖族他人记谱，部分由堂兄黄宽寿记谱）)
+    * [三、黄和盛后裔生辰](contents/chapter4.md##三、黄和盛后裔生辰)
+>>>>>>> 6fc0f1bf13923f5e79c8d7c0397578c3cf25ab91
 * [第五章 历代黄姓人物](contents/chapter5.md)
     * [一、往古豪俊](contents/chapter5.md##一、往古豪俊)
     * [二、当代名人](contents/chapter5.md##二、当代名人)
     * [三、我族知名人士](contents/chapter5.md##三、我族知名人士)
 * [第六章 黄氏的宗族文化](contents/chapter6.md)
+<<<<<<< HEAD
     * [一、孝道传统](contents/chapter5.md## 一、孝道传统)
+=======
+    * [一、孝道传统](contents/chapter5.md##一、孝道传统)
+>>>>>>> 6fc0f1bf13923f5e79c8d7c0397578c3cf25ab91
     * [二、宗祠堂号](contents/chapter5.md##二、宗祠堂号)
     * [三、专用联和认宗诗](contents/chapter5.md##三、专用联和认宗诗)
 * [编后记](bian_hou_ji.md)

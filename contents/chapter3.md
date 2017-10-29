@@ -1,6 +1,6 @@
-# 第三章 黄族入川后裔世系
+#第三章 黄族入川后裔世系
 
-## 一、黄族入川后裔世系
+##一、黄族入川后裔世系
 
 &#160; &#160; &#160; &#160;**黄福义**王氏——**黄文忠**奏名法忠罗氏——**黄仲华**号素峰秦氏——**黄克忠**号孝先（举人）邹氏，侧室王氏——**黄荣**邱氏——**黄日升**曾氏——**黄海洪**号寿官廖谢氏——**黄永全**梁氏——**黄泰**号文峰陈氏——**黄玉受**号寿山谢氏——**黄大忠**号良所李氏——**黄明用**号启明曾扬氏——**黄国胜**号良卿妣吴氏入川。
 
@@ -35,7 +35,7 @@
 &#160; &#160; &#160; &#160;老族规：“显”字辈名下，以“光”字辈建立小清明会。又俗称黄政选的长子黄端阁的后裔为大房，次子黄端房的后裔为二房。
 
 
-## 二、我族小清明会世系
+##二、我族小清明会世系
 
 &#160; &#160; &#160; &#160;黄福义——黄文忠——黄仲华——黄克忠——黄荣——黄日升——黄海洪——黄永全——黄泰——黄玉受——黄大忠——黄明用——**黄国胜（妣吴氏）**
 
@@ -247,7 +247,7 @@ graph LR;
   style huanghesheng2 fill:#f9f,stroke:#333,stroke-width:4px;
 {% endmermaid %}
 
-## 三、黄和盛长子黄占庭世系表
+##三、黄和盛长子黄占庭世系表
 
 {% mermaid %}
 graph LR;
@@ -289,7 +289,7 @@ graph LR;
 {% endmermaid %}
 其余居住大竹县金鸡乡花楼村二组(原四组)(东风桥新屋湾)
 
-## 四、黄和盛次子黄占华世系表
+##四、黄和盛次子黄占华世系表
 
 {% mermaid %}
 graph LR;
@@ -322,7 +322,7 @@ graph LR;
 {% endmermaid %}
 <center>其余居住大竹县金鸡乡花楼村二组(原四组)(东风桥新屋湾)</center>
 
-## 五、黄和盛三子黄占富世系表
+##五、黄和盛三子黄占富世系表
 
 {% mermaid %}
 graph LR;
@@ -352,6 +352,7 @@ graph LR;
   huangkuanxin("黄宽信")-->huangxiaoshu("黄小书(女)");
   huangxiangli("黄香礼")-->huangkuanqi("黄宽奇");
   huangkuanqi("黄宽奇")-->huangyu("黄宇");
+  huangyu("黄宇")-->huangzhuang("黄壮");
   huangkuanqi("黄宽奇")-->huangdan("黄丹(女)");
   huangxiangli("黄香礼")-->huangkuanlun("黄宽伦");
   huangkuanlun("黄宽伦")-->huanggaowen("黄高文");
@@ -384,7 +385,7 @@ graph LR;
 {% endmermaid %}
 <center>其余居住大竹县金鸡乡花楼村三组(原五组、六组)(东风桥向阳坝)</center>
 
-## 六、黄和盛四子黄占贵世系表
+##六、黄和盛四子黄占贵世系表
 
 {% mermaid %}
 graph LR;
@@ -448,22 +449,23 @@ graph LR;
   huangzhanchun("黄占贵")-->huangxiangchui("黄香翠(女)");
 {% endmermaid %}
 
-## 七、黄和盛五子黄占春世系表
+##七、黄和盛五子黄占春世系表
 
 {% mermaid %}
 graph LR;
   huangzhanchun("黄占春")-->huangxiangwei("黄香位");
   huangzhanchun("黄占春")-->huangxiangbing("黄香炳");
   huangzhanchun("黄占春")-->huangxiangyu("黄香玉(女)");
-  huangzhanchun("黄占春")-->huangxiangx("黄香X(女)");
+  huangzhanchun("黄占春")-->huangxiangx("黄香蓉(女)");
   huangxiangbing("黄香炳")-->huangkuanqing("黄宽清");
-  huangkuanqing("黄宽清")-->huanghongmei("黄红梅(女)");
-  huangkuanqing("黄宽清")-->huangx("黄X(女)");
+  huangkuanqing("黄宽清")-->huanghongmei("黄高梅(女)");
+  huangkuanqing("黄宽清")-->huangx("黄春云(女)");
   huangxiangbing("黄香炳")-->huangkuanyun("黄宽云");
   huangkuanyun("黄宽云")-->huanggaocai("黄高才");
   huangkuanyun("黄宽云")-->huangxiulan("黄秀兰(女)");
   huangxiangbing("黄香炳")-->huangkuanlu("黄宽陆");
   huangkuanlu("黄宽陆")-->huangjie("黄杰");
+  huangkuanlu("黄宽陆")-->huanggaoqi("黄高琪");
   huangxiangbing("黄香炳")-->huangkuanwen("黄宽文");
   huangkuanwen("黄宽文")-->huangxin("黄新");
   huangkuanwen("黄宽文")-->huangfang("黄芳(女)");

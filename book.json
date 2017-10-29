@@ -22,9 +22,14 @@
         "hide-published-with",
         "splitter",
         "tbfed-pagefooter",
-        "sectionx"
+        "sectionx",
+        "expandable-chapters"
     ],
     "pluginsConfig": {
+        "duoshuo": {
+            "short_name": "huangshijiapu",
+            "theme": "default"
+        },
         "edit-link": {
             "base": "https://github.com/jeanim/jiapu/edit/master",
             "label": "编辑该页面",
@@ -37,13 +42,9 @@
             "url": "https://github.com/jeanim/jiapu"
         },
         "tbfed-pagefooter": {
-          "copyright":"版权归黄氏家族所有",
-          "modify_label": " 该文件修订时间:",
-          "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
-        "duoshuo": {
-            "short_name": "huangshijiapu",
-            "theme": "default"
+            "copyright": "版权归黄氏家族所有",
+            "modify_label": " 该文件修订时间:",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
 }
