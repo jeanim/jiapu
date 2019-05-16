@@ -1,7 +1,7 @@
 {
     "plugins": [
         "yahei",
-        "mermaid",
+        "mermaid-gb3",
         "maobu",
         "multipart",
         "exercises",
