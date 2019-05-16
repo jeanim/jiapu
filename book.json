@@ -3,7 +3,6 @@
     "description": "黄氏之黄和盛家谱",
     "author": "qiu huang",
     "gitbook": "3.2.3",
-    
     "plugins": [
         "-lunr",
         "-search",
