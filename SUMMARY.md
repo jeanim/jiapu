@@ -42,3 +42,4 @@
     * [二、宗祠堂号](contents/chapter5.md##二、宗祠堂号)
     * [三、专用联和认宗诗](contents/chapter5.md##三、专用联和认宗诗)
 * [编后记](bian_hou_ji.md)
+* [技术测试](contents/test.md)
