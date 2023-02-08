@@ -39,7 +39,7 @@
 
 &#160; &#160; &#160; &#160;黄福义——黄文忠——黄仲华——黄克忠——黄荣——黄日升——黄海洪——黄永全——黄泰——黄玉受——黄大忠——黄明用——**黄国胜（妣吴氏）**
 
-graph LR;
+graph LR
   huangguosheng("黄国胜(妣吴氏)")-->huangzhengxuan("黄政选(妣张氏)");
   huangguosheng("黄国胜(妣吴氏)")-->huangzhengda("黄政达");
   huangguosheng("黄国胜(妣吴氏)")-->huangzhengdao("黄政道");
@@ -247,7 +247,7 @@ graph LR;
 
 ##三、黄和盛长子黄占庭世系表
 
-graph LR;
+graph LR
   huangzhanting("黄占庭")-->huangxiangde("黄香德");
   huangxiangde("黄香德")-->haungkuanshou("黄宽寿(原记谱人)");
   haungkuanshou("黄宽寿(原记谱人)")-->huanggaoyun("黄高云");
@@ -288,7 +288,7 @@ graph LR;
 
 ##四、黄和盛次子黄占华世系表
 
-graph LR;
+graph LR
   huangzhanhua("黄占华")-->huangxiangwu("黄香武");
   huangxiangwu("黄香武")-->huangkuanzhi("黄宽志");
   huangkuanzhi("黄宽志")-->huanggaochun("黄高春");
@@ -320,7 +320,7 @@ graph LR;
 
 ##五、黄和盛三子黄占富世系表
 
-graph LR;
+graph LR
   huangzhanfu("黄占富")-->huangxiangxiang("黄香祥");
   huangxiangxiang("黄香祥")-->huangkuanliang("黄宽亮");
   huangkuanliang("黄宽亮")-->huanggaohong("黄高洪");
@@ -382,7 +382,7 @@ graph LR;
 
 ##六、黄和盛四子黄占贵世系表
 
-graph LR;
+graph LR
   huangzhanchun("黄占贵")-->huangxianglu("黄香陆");
   huangxianglu("黄香陆")-->huangkuanquan("黄宽全");
   huangkuanquan("黄宽全")-->huanggaohong("黄高洪");
@@ -444,7 +444,7 @@ graph LR;
 
 ##七、黄和盛五子黄占春世系表
 
-graph LR;
+graph LR
   huangzhanchun("黄占春")-->huangxiangwei("黄香位");
   huangzhanchun("黄占春")-->huangxiangbing("黄香炳");
   huangzhanchun("黄占春")-->huangxiangyu("黄香玉(女)");

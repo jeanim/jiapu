@@ -2,7 +2,7 @@
 
 ##一、粤东末入川录
 
-graph LR;
+graph LR
   huangfuyi("黄福义")-->huangwenzhong("黄文忠");
   huangwenzhong("黄文忠")-->zhongxuan("仲宣");
   zhongxuan("仲宣")-->yuanlu("元禄");
@@ -45,7 +45,7 @@ graph LR;
 
 ##二、黄海洪长子黄永全后裔
 
-graph LR;
+graph LR
   huangyongquan("黄永全")-->huangtai("黄泰");
   huangtai("黄泰")-->huangyushou("黄玉受");
   huangyushou("黄玉受")-->huangdazhong("黄大忠");
@@ -235,7 +235,7 @@ graph LR;
 
 ##三、黄海洪次子黄永德后裔
 
-graph LR;
+graph LR
   huangyongde("黄永德")-->huangyu("黄俞");
   huangyu("黄俞")-->huangyaochen("黄尧臣");
   huangyaochen("黄尧臣")-->huangzhida("黄至大");
@@ -297,7 +297,7 @@ graph LR;
 
 ##四、黄海洪三子黄永顺后裔
 
-graph LR;
+graph LR
   huangyongshun("黄永顺")-->huangjin("黄金");
   huangjin("黄金")-->huangmin("黄旻");
   huangmin("黄旻")-->dafu("大傅");
