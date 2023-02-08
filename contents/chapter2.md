@@ -2,7 +2,6 @@
 
 ##一、粤东末入川录
 
-{% mermaid %}
 graph LR;
   huangfuyi("黄福义")-->huangwenzhong("黄文忠");
   huangwenzhong("黄文忠")-->zhongxuan("仲宣");
@@ -43,11 +42,9 @@ graph LR;
   style risheng fill:#f9f,stroke:#333,stroke-width:4px;  
   style huanghaihong fill:#f9f,stroke:#333,stroke-width:4px;  
   style yongquan fill:#f9f,stroke:#333,stroke-width:4px;
-{% endmermaid %}
 
 ##二、黄海洪长子黄永全后裔
 
-{% mermaid %}
 graph LR;
   huangyongquan("黄永全")-->huangtai("黄泰");
   huangtai("黄泰")-->huangyushou("黄玉受");
@@ -235,11 +232,9 @@ graph LR;
   style huangdazhong fill:#f9f,stroke:#333,stroke-width:4px; 
   style huangmingyong fill:#f9f,stroke:#333,stroke-width:4px; 
   style guosheng fill:#f9f,stroke:#333,stroke-width:4px; 
-{% endmermaid %}
 
 ##三、黄海洪次子黄永德后裔
 
-{% mermaid %}
 graph LR;
   huangyongde("黄永德")-->huangyu("黄俞");
   huangyu("黄俞")-->huangyaochen("黄尧臣");
@@ -299,11 +294,9 @@ graph LR;
   daru("大儒")-->mingzhang("明璋");
   daru("大儒")-->minggui("明硅");
   huangyuqing("黄玉清")-->dawei("大伟");
-{% endmermaid %}
 
 ##四、黄海洪三子黄永顺后裔
 
-{% mermaid %}
 graph LR;
   huangyongshun("黄永顺")-->huangjin("黄金");
   huangjin("黄金")-->huangmin("黄旻");
@@ -344,4 +337,3 @@ graph LR;
   huangjing("黄景")-->dawang("大旺");
   dawang("大旺")-->mingtong("明统");
   huangjin("黄金")-->huangang("黄昂"); 
-{% endmermaid %}

@@ -39,7 +39,6 @@
 
 &#160; &#160; &#160; &#160;黄福义——黄文忠——黄仲华——黄克忠——黄荣——黄日升——黄海洪——黄永全——黄泰——黄玉受——黄大忠——黄明用——**黄国胜（妣吴氏）**
 
-{% mermaid %}
 graph LR;
   huangguosheng("黄国胜(妣吴氏)")-->huangzhengxuan("黄政选(妣张氏)");
   huangguosheng("黄国胜(妣吴氏)")-->huangzhengda("黄政达");
@@ -245,11 +244,9 @@ graph LR;
   style huangyitong fill:#f9f,stroke:#333,stroke-width:4px;
   style zhongzhi fill:#f9f,stroke:#333,stroke-width:4px;
   style huanghesheng2 fill:#f9f,stroke:#333,stroke-width:4px;
-{% endmermaid %}
 
 ##三、黄和盛长子黄占庭世系表
 
-{% mermaid %}
 graph LR;
   huangzhanting("黄占庭")-->huangxiangde("黄香德");
   huangxiangde("黄香德")-->haungkuanshou("黄宽寿(原记谱人)");
@@ -286,12 +283,11 @@ graph LR;
   huangxiangshun("黄香顺")-->huangkuanping("黄宽萍(女)");
   huangzhanting("黄占庭")-->huangxiangzhen("黄香珍(女)");
   huangzhanting("黄占庭")-->huangxiangrong("黄香蓉(女)");  
-{% endmermaid %}
+
 其余居住大竹县金鸡乡花楼村二组(原四组)(东风桥新屋湾)
 
 ##四、黄和盛次子黄占华世系表
 
-{% mermaid %}
 graph LR;
   huangzhanhua("黄占华")-->huangxiangwu("黄香武");
   huangxiangwu("黄香武")-->huangkuanzhi("黄宽志");
@@ -319,12 +315,11 @@ graph LR;
   huangkuanxiang("黄宽祥")-->huanggaosong("黄高松");
   huangxiangru("黄香儒")-->huangkuanhui("黄宽惠(女)");
   huangzhanhua("黄占华")-->huangxiangju("黄香菊(女)");
-{% endmermaid %}
+
 <center>其余居住大竹县金鸡乡花楼村二组(原四组)(东风桥新屋湾)</center>
 
 ##五、黄和盛三子黄占富世系表
 
-{% mermaid %}
 graph LR;
   huangzhanfu("黄占富")-->huangxiangxiang("黄香祥");
   huangxiangxiang("黄香祥")-->huangkuanliang("黄宽亮");
@@ -382,12 +377,11 @@ graph LR;
   huangxiangshou("黄香寿")-->huangkuanchao("黄宽超");
   huangxiangshou("黄香寿")-->huangkuanmei("黄宽梅(女)");
   huangxiangshou("黄香寿")-->huangkuanjuan("黄宽娟(女)");
-{% endmermaid %}
+
 <center>其余居住大竹县金鸡乡花楼村三组(原五组、六组)(东风桥向阳坝)</center>
 
 ##六、黄和盛四子黄占贵世系表
 
-{% mermaid %}
 graph LR;
   huangzhanchun("黄占贵")-->huangxianglu("黄香陆");
   huangxianglu("黄香陆")-->huangkuanquan("黄宽全");
@@ -447,11 +441,9 @@ graph LR;
   huangzhanchun("黄占贵")-->huangxiangfen("黄香芬(女)");
   huangzhanchun("黄占贵")-->huangxiangfeng("黄香凤(女)");
   huangzhanchun("黄占贵")-->huangxiangchui("黄香翠(女)");
-{% endmermaid %}
 
 ##七、黄和盛五子黄占春世系表
 
-{% mermaid %}
 graph LR;
   huangzhanchun("黄占春")-->huangxiangwei("黄香位");
   huangzhanchun("黄占春")-->huangxiangbing("黄香炳");
@@ -471,5 +463,5 @@ graph LR;
   huangkuanwen("黄宽文")-->huangfang("黄芳(女)");
   huangkuanwen("黄宽文")-->huangjing("黄静(女)");
   huangxiangbing("黄香炳")-->huangkuanqiong("黄宽琼(女)");
-{% endmermaid %}
+
 <center>居住大竹县金鸡乡花楼村二组(原四组)(东风桥新屋湾)</center>
