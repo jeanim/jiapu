@@ -1,6 +1,6 @@
 # Flowchart
 
-```mermaid
+{% mermaid %}
 graph LR
 
 A(Start)
@@ -10,7 +10,7 @@ C -->|Yes| D(Stop looking)
 C -->|No| E{Do you need it?}
 E -->|Yes| B
 E -->|No| D
-```
+{% endmermaid %}
 
 # Sequence diagrams
 
